@@ -1,21 +1,17 @@
 # vue-clock
 
-> A Vue.js project
+> Vue实现的"苹果时钟"
 
-## Build Setup
+## 苹果时钟
 
-``` bash
-# install dependencies
-npm install
+``` 
+# 安排自己的工作/学习
 
-# serve with hot reload at localhost:8080
-npm run dev
+# 响应式布局
 
-# build for production with minification
-npm run build
+# Vue全家桶
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# 刷新页面不会导致时钟结束
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
