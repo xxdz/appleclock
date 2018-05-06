@@ -11,7 +11,7 @@
 
 # Vue全家桶
 
-# 刷新页面不会导致时钟结束
+# 刷新页面不会导致已创建内容失效
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
