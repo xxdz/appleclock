@@ -1,0 +1,85 @@
+.content .tool ul{
+        height:136px;
+        transition:200ms;
+    }
+    .ul-content ul li{
+        width:100%;
+        height:25%;
+        color:#fff;
+        padding:0 10px;
+        white-space:nowrap;
+        overflow:hidden;
+        text-overflow:ellipsis;
+        border:1px solid #fff;
+        line-height:34px;
+        box-sizing:border-box;
+        background-color:#ffe1f1;
+        text-align:left;
+        cursor:pointer;
+        
+    }
+    .music-list{
+        text-align:center;
+    }
+    .wrapper .tool ul .clock-music{
+        height:360px;
+    }
+    .tool ul .ul-content > li{
+        width:100%;
+        height:70px;
+        background-color:#eed1ee;
+        border-top:1px solid #eee;
+        text-align:center;
+        font-size:21px;
+        line-height:70px;
+        color:#fff;
+        cursor:pointer;
+    }
+    .tool ul .ul-content li:hover{
+        background-color:#e1e1e1;
+    }
+    .content .tool ul .rotate{
+        transform:rotate(130deg);
+    }
+    .wrapper .tool ul .active{
+        height:0px;
+    }
+    .tool ul .ul-content{
+        width:100%;
+        height:135px;
+        box-sizing:border-box;
+        transition:200ms;
+        overflow:hidden;
+    }
+    .tool ul .title .btn{
+        display:inline-block;
+        width:16px;
+        height:16px;
+        transform:translateX(60px);
+    }
+    .tool ul .title{
+        width:100%;
+        height:75px;
+        font-size:20px;
+        color:#fff;
+        font-weight:900;
+        text-align:center;
+        line-height:75px;
+        background-color:#dfcfff;
+        border:2px solid #fff;
+        box-sizing:border-box;
+        cursor:pointer;
+    }
+    .tool ul .title:hover{
+        box-shadow:0 0 6px #cac6c6;
+        background-color:#eef1e6;
+    }
+    .tool ul{
+        width:100%;
+    }
+    .content .tool{
+        float:left;
+        width:371px;
+        height:100%;
+        background-color:#eef1f6;
+    }
